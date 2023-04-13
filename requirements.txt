@@ -1,0 +1,16 @@
+# installed via local file due to hash issue
+# torch
+
+# python packages
+numpy
+
+# jupyter notebook
+ipykernel
+nbconvert
+trame
+ipywidgets
+
+# sphinx packages
+# sphinx_copybutton
+# myst_parser
+# furo
