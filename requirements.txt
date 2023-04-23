@@ -3,6 +3,7 @@
 
 # python packages
 numpy
+matplotlib
 
 # jupyter notebook
 ipykernel
